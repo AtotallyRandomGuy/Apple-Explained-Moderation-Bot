@@ -16,6 +16,9 @@ module.exports = {
         { name: 'Version', value: version, inline: false },
         { name: 'Codename', value: codename, inline: false },
         { name: 'Author', value: 'Daniel C (TechGeekGamer)', inline:false},
+	{ name: 'Contributers', value: 'Derpi/Jack', inline:false},
+	{ name: 'Contributers', value: 'iamthesadcat', inline:false},
+	{ name: 'Contributers', value: 'Tommystefanatic', inline:false},
         { name: 'Source', value: 'https://github.com/TechGeekGamer/Apple-Explained-Moderation-Bot', inline: false },
         { name: 'Written in', value: '[Discord.JS V12](https://discord.js.org/)', inline: false },
         
